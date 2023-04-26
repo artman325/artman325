@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Artem
+Blockchain developer 👋
 
 <!--
 **artman325/artman325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
